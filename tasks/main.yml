@@ -1,0 +1,3 @@
+---
+# tasks file for ivim
+- include: vim.yml
